@@ -481,6 +481,11 @@ escape-html@~1.0.3:
   resolved "https://registry.yarnpkg.com/escape-html/-/escape-html-1.0.3.tgz#0258eae4d3d0c0974de1c169188ef0051d1d1988"
   integrity sha1-Aljq5NPQwJdN4cFpGI7wBR0dGYg=
 
+esm@^3.2.18:
+  version "3.2.18"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.18.tgz#54e9276449ab832b01240069ae66bf245785c767"
+  integrity sha512-1UENjnnI37UDp7KuOqKYjfqdaMim06eBWnDv37smaxTIzDl0ZWnlgoXwsVwD9+Lidw+q/f1gUf2diVMDCycoVw==
+
 etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
